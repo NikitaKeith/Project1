@@ -7,7 +7,7 @@ public class Test {
         AbleToEat ableToEat = new AbleToEat() {
             @Override
             public void eat() {
-                System.out.println("eating");
+                System.out.println("eag");
             }
         };
         ableToEat.eat();
