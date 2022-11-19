@@ -11,5 +11,6 @@ public class Test {
             }
         };
         ableToEat.eat();
+        System.out.println("New Line");
     }
 }
